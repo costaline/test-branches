@@ -1,7 +1,7 @@
 # README
 
-- lorem
+- ~~lorem~~
 - **ipsum**
-- dolor
+- _dolor_
 
 lorem **ipsum** dolor
