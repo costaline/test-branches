@@ -1,1 +1,5 @@
 # README
+
+- lorem
+- ipsum
+- dolor
