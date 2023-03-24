@@ -4,4 +4,4 @@
 - **ipsum**
 - _dolor_
 
-lorem **ipsum** dolor
+`lorem` **ipsum** dolor
